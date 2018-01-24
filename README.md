@@ -56,6 +56,8 @@ Git style guide suggested by Pagar.me.
 
     > **Note:** While working alone on a local branch that has not yet been pushed, it's fine to use commits as temporary snapshots of your work. However, it still holds true that you should apply all of the above before pushing it to remote. To do that it's really important to understand `git rebase -i`.
 
+Escrevi besteira que eu esqueci
+
 ## Messages
 
   - [3.1](#) Use the editor, not the terminal, when writing a commit message.
