@@ -13,10 +13,10 @@ Git style guide suggested by Pagar.me.
 
     ```
     # good
-    $ git checkout -b feature/oauth
+    $ git checkout -b oauth
 
     # good: using identifiers
-    $ git checkout -b fix/issue-15
+    $ git checkout -b issue-15
 
     # bad: too vague
     $ git checkout -b login_fix
@@ -26,10 +26,10 @@ Git style guide suggested by Pagar.me.
 
     ```sh
     # good
-    $ git checkout -b feature/add-webhook
+    $ git checkout -b add-webhook
 
     # bad
-    $ git checkout -b feature/add_webhook
+    $ git checkout -b add_webhook
     ```
 
 ## Commits
